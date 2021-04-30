@@ -10,7 +10,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "robertseghedi/laravue-autofetcher": "^1.0",
         "robertseghedi/advanced-laravel-security": "*"
     },
     "autoload": {
