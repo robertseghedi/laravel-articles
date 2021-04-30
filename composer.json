@@ -1,6 +1,6 @@
 {
     "name": "robertseghedi/laravel-articles",
-    "description": "Descriere",
+    "description": "Feature-full Laravel advanced plugin for managing your website's articles, categories, likes and comments with a very easy syntax. Add, move, delete any content from your system, really easy.",
     "license": "MIT",
     "authors": [
         {
