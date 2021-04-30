@@ -24,7 +24,7 @@ RobertSeghedi\News\NewsProvider::class,
    ```
 ## Information
 Below there are some useful essential information about this package, in order for you to know what it's using & how it functions.
-### Dependecies
+### Dependencies
 - [Laravel Advanced Security](https://github.com/robertseghedi/laravel-advanced-security) by **Robert Seghedi**;
 
 This package uses **Laravel Advanced Security** to track user actions in the media system in order to know who-what posted & things like that. Educational purposes only / other purposes but on your own liability.
