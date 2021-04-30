@@ -1,0 +1,21 @@
+{
+    "name": "robertseghedi/laravel-articles",
+    "description": "Descriere",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Robert Seghedi",
+            "email": "robertseghedi123@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "robertseghedi/laravue-autofetcher": "^1.0",
+        "robertseghedi/advanced-laravel-security": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "RobertSeghedi\\News\\": "src/"
+        }
+    }
+}
