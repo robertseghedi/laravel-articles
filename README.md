@@ -76,4 +76,6 @@ public function delete_category($id)
 
 I **highly** recommend you to use [this Laravel Autofetcher Plugin](https://github.com/robertseghedi/laravel-autofetcher) in order to extract fresh data.
 
+### 4. Start making amazing content on the web
+
 Follow this package for future updates
