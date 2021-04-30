@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "robertseghedi/advanced-laravel-security": "1.0.0"
+        "robertseghedi/laravel-advanced-security": "dev-main"
     },
     "autoload": {
         "psr-4": {
