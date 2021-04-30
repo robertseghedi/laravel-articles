@@ -65,6 +65,8 @@ public function delete_category($id)
     if($deletion) return redirect()->back()->with('success', 'The category and all its articles were deleted.');
 }
 ```
-### 3. Start making content
+### 3. Extract data
+
+I **highly** recommend you to use [this Laravel Autofetcher Plugin](https://github.com/robertseghedi/laravel-autofetcher) in order to extract fresh data.
 
 Follow this package for future updates
